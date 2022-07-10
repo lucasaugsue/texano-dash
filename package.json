@@ -2,8 +2,8 @@
   "name": "dashboard",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "node": "14.x"
+  "engines" : { 
+    "node" : ">=14.0.0 <15.0.0" 
   },
   "dependencies": {
     "@coreui/react": "^3.0.5",
